@@ -26,4 +26,9 @@ Start with a monk - double the relics.
 Is it Nomad - or is it the land/water inverse of Team Island? 🤯
 
 # Version notes
-Version 1.0 maps were the ones used in the Lentil Cup 1.5 tournament. Patch notes will be added here as maps are updated. 
+Version 1.0 maps were the ones used in the Lentil Cup 1.5 tournament. 
+
+Patch notes added here as maps are updated. 
+
+### Crochetbia
+2.0-beta: more trees, closer animals, no oases, slightly less snow and snow crocodiles
