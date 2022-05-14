@@ -32,3 +32,6 @@ Patch notes added here as maps are updated.
 
 ### Crochetbia
 2.0-beta: more trees, closer animals, no oases, slightly less snow and snow crocodiles
+
+### Reverse Arena
+1.1: slightly better spacing on starting locations
