@@ -3,6 +3,8 @@ Copy and paste map into text file with filename ending with .rms (or you can dow
 
 Paste the file into your Age of Empires 2 game directory - path should look something like /resources/_common/random-map-scripts. You may have to make a random-map-scripts folder if it doesn't already exist.
 
+_Also available in-game with the __Crochet Map Pack__ mod._
+
 # Maps: 
 
 ## Reverse Arena
@@ -13,12 +15,12 @@ It's Arena... except your walls are around a different player.
 ## Bog Socotra
 ![Bog Socotra](./thumbnails/bog-socotra.PNG)
 
-Do demolition ships get a hill advantage?
+It's Socotra... but boggier. Mill deep fish with villagers; ships can have hill advantage. 
 
 ## Crochetbia
 ![Crochetbia](./thumbnails/crochetbia.PNG)
 
-Start with a monk - double the relics. 
+Start with a monk and a monastery - double the relics. 
 
 ## Ponds
 ![Ponds](./thumbnails/ponds.PNG)
