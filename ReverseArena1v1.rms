@@ -1,6 +1,5 @@
 <PLAYER_SETUP>
     direct_placement
-    /* nomad_resources */
     ai_info_map_type ARENA 0 0 0
 
 /* LANDS */
@@ -427,7 +426,6 @@ create_object DLC_DEADTREE
 }
 
 /* NEUTRAL  */
-
 create_object RELIC 
 {
     number_of_objects             5
